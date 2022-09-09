@@ -1,7 +1,9 @@
 #include<stdio.h>
 
 /**
- * Created main function for the entry point
+ * main - Entry point
+ *
+ * Return: Always 0
  */
 int main(void)
 {
