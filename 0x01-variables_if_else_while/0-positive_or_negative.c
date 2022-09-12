@@ -2,31 +2,35 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Entry Function
- * @n: Where we are storing the variables
- *
- * Return: It always returns success as zero
- */
+* main - Entry Function
+* @n: Where we are storing the variables
+*
+* Return: It always returns success as zero
+*/
 /* betty style doc for function main goes there */
 int main(void)
 {
-    int n;
+int n;
 
-    srand(time(0));
-    n = rand() - RAND_MAX / 2;
+srand(time(0));
+n = rand() - RAND_MAX / 2;
 
-    if (n > 0)
-    {
-        printf("%d is positive", n);
-    }
-    else if (n == 0)
-    {
-        printf("%d is zero", n);
-    }
-    else
-    {
-        printf("%d is negative", n);
-    }
+if (n > 0)
+{
+printf("%d is positive", n);
+}
+else if (n == 0)
+{
+printf("%d is zero", n);
+}
+else if (n < 0)
+{
+printf("%d is negative", n);
+}
+else
+{
+printf("You're on your own");
+}
 
-    return (0);
+return (0);
 }
