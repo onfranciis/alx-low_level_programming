@@ -3,7 +3,6 @@
 #include <time.h>
 /**
 * main - Entry Function
-* @n: Where we are storing the variables
 *
 * Return: It always returns success as zero
 */
