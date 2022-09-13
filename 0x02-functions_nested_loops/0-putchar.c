@@ -12,11 +12,11 @@ int i = 0;
 char x;
 char y[] = "_putchar\n";
 
-while (i <= 9)
+while (i <= 8)
 {
-    x = y[i];
-    _putchar(x);
-    i++;
+x = y[i];
+_putchar(x);
+i++;
 }
 
 
