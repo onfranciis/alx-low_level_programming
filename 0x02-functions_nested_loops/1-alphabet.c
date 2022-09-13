@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* main - Entry Function
+* print_alphabet - Entry Function
 *
 * Return: It always returns success as zero
 */
