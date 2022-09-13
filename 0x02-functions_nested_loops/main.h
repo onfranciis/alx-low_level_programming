@@ -1,5 +1,5 @@
-#ifndef EXAMPLE_H
-#define EXAMPLE_H
+#ifndef  main.h
+#define main.h
 
 #include "_putchar.c"
 int _putchar(char c);
