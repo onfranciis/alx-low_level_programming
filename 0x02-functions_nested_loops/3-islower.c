@@ -2,6 +2,7 @@
 
 /**
 * print_alphabet_x10 - Entry Function
+* @c: The value to decide on
 *
 * Return: It always returns success as zero
 */
