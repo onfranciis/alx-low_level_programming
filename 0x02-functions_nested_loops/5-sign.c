@@ -2,7 +2,7 @@
 
 /**
 * print_sign - Returns the decision
-* @c: The value to decide on
+* @n: The value to decide on
 *
 * Return: It always returns success as zero
 */
