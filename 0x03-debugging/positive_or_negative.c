@@ -4,7 +4,6 @@
 /**
 * positive_or_negative - Entry Function
 *
-* Return: It always returns success as zero
 */
 void positive_or_negative(int n)
 {
