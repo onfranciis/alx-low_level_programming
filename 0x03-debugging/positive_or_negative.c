@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * positive_or_negative - Entry Function
-*
+* @n: integer to decide on
 */
 void positive_or_negative(int n)
 {
