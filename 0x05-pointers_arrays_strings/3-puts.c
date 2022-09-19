@@ -11,8 +11,8 @@
 
 void _puts(char *str)
 {
-int x =0;
-while(*(str + x))
+int x = 0;
+while (*(str + x))
 {
 putchar(*(str + x));
 x++;
