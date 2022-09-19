@@ -1,0 +1,1 @@
+This folder contains the tasks under the  `Pointers, arrays and strings` of the C language by ALX
