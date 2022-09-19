@@ -3,7 +3,7 @@
 #include <string.h>
 
 /**
- * swap_int - check the code
+ * _strlen - check the code
  *
  * @s: The first integer
  *
@@ -11,5 +11,5 @@
  */
 int _strlen(char *s)
 {
-    return strlen(s);
+return (strlen(s));
 }
