@@ -5,7 +5,7 @@
  *
  * Return: Always 0.
  */
-int putch(void)
+int main(void)
 {
     char *str;
 
