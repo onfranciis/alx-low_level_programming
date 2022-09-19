@@ -4,6 +4,8 @@
 /**
  * reset_to_98 - check the code
  *
+ * @*n: The defaulted
+ *
  * Return:  None
  */
 
